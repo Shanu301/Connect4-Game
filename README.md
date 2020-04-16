@@ -1,0 +1,2 @@
+# Connect4-Game
+Connect Four Game is windows based game. Connect Four is a Two-player connection game in which the players first choose a color and then take turns dropping  coloured discs from the top into a seven columns, six row vertically suspended grid.  The pieces fall straight down occupying the next available space within the column.         The Objectives of the game is to be the first to be form a horizontal, vertical or diagonal line of four of one's own discs. Connect Four is a solved games. The First player can always win by playing the right moves. 
